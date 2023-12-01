@@ -63,4 +63,4 @@ jobs:
           app-name: 'DOMFLIX'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA677E3CC4904D6598A0EB77FED7AB70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F81440316BAA4299BE3BB8839DEF36B0 }}
